@@ -1,0 +1,26 @@
+.top-bar {
+    font-size: 15px;
+    height: 50px;
+    background-color: #f7f9fa;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+    border-bottom: 1px solid #d5d4d4;
+}
+
+.menu-button {
+    font-size: 20px;
+    border-style: ridge;
+    border-color: rgb(252, 252, 252);
+    background: none;
+    margin-right: 15px;
+}
+
+.menu-button:hover {
+    cursor: pointer;
+    background-color: rgb(231, 235, 235);
+}
+
+.content {
+    padding: 20px;
+}
